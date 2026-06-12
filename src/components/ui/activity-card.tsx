@@ -16,7 +16,7 @@ export function ActivityCard({
   };
 
   return (
-    <Card className ="relative mx-auto w-full justify-around max-w-sm pt-0 p-px">
+    <Card className ="relative mx-auto w-full max-w-sm pt-0 p-px flex flex-col overflow-hidden">
         <div className="absolute inset-0 z-30 aspect-video rounded-t-lg" />
         <img
             src={imgSrc}
@@ -24,8 +24,8 @@ export function ActivityCard({
             onClick={handleImageClick}
             className="content-start z-35 aspect-video w-full object-cover brightness-100 rounded-t-xl cursor-pointer hover:brightness-110 transition-brightness"
         />
-        <CardHeader>
-            <CardTitle style={{fontSize: '1.5rem', fontWeight: 600}}>{gameTitle}
+        <CardHeader className="justify-start">
+            <CardTitle className="justify-start" style={{fontSize: '1.5rem', fontWeight: 600}}>{gameTitle}
                 {/*<CardAction>
                     <Badge variant="secondary">New</Badge>
                 </CardAction>

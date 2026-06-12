@@ -34,7 +34,7 @@ export default function GameCards() {
     if (!gameData.length) return <div></div>;
 
   return (
-    <div className="bg-green grid w-full gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 p-10">
+    <div className="grid w-full gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 p-10">
         {gameData.map((game) => (
             <ActivityCard key={game.gameTitle}
                 gameTitle={game.gameTitle}
