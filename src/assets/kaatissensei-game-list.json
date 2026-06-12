@@ -1,0 +1,58 @@
+[
+    {
+        "gameTitle": "Minecraft Typhoon",
+        "gameDescription": "Choose blocks, answer questions, and gain points while avoiding the various traps in this adaptation of the Typhoon Game. Now with the ability to upload your own questions!",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/MCT_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Minecraft-Typhoon",
+        "badges": ["All grades"],
+        "downloadURL": "https://kaatissensei.github.io/pages/mct-downloads.html",
+        "altopediaURL": "https://www.altopedia.net/activities/6474-minecraft-typhoon-online"
+    },
+    {
+        "gameTitle": "Brown Bear Maker",
+        "gameDescription": "Make your own version of the classic book! Choose from 12 colors and 24 animals. Great for lower level students!",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/Brown-Bear-Maker_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Brown-Bear-Maker",
+        "badges": ["ES", "Special Needs"],
+        "altopediaURL": "https://www.altopedia.net/activities/6755-brown-bear-brown-bear-maker-online"
+    },
+    {
+        "gameTitle": "Kunitori: Battle for Japan",
+        "gameDescription": "Take over Japan as you battle other teams to claim the largest area! Based on the Japanese 国盗り game.",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/Kunitori_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Kunitori",
+        "badges": ["JHS", "ES"],
+        "altopediaURL": "https://www.altopedia.net/activities/8586-battle-for-japan-online-kunitori"
+    },
+    {
+        "gameTitle": "Splathello",
+        "gameDescription": "The classic game of Othello with a twist! Play with up to 8 groups as they try to fill the board with their team's color.",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/Splathello_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Splathello",
+        "badges": ["All grades"],
+        "altopediaURL": "https://www.altopedia.net/activities/6357-splathello-online"
+    },
+        {
+        "gameTitle": "Percent Balloon",
+        "gameDescription": "What percent of student like English? What percent went to Disney during summer vacation? Based on the popular Nepleague game, try to guess how fellow students responded to various surveys.",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/Percent-Balloon_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Percent-Balloon",
+        "badges": ["All grades"],
+        "altopediaURL": "https://www.altopedia.net/activities/7512-percent-balloon-online"
+    },
+    {
+        "gameTitle": "Spell Check",
+        "gameDescription": "Study for spelling tests using the vocabulary found in New Horizon (2024). Take a Practice Test, time yourself with Time Attack mode, or go at your own pace in Study mode. Now with the option to make custom lists!",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/SpellCheck_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/SpellCheck",
+        "badges": ["JHS", "Self Study"],
+        "altopediaURL": "https://www.altopedia.net/activities/8527-spell-check-vocab-study-app-for-new-horizon-jhs"
+    },
+        {
+        "gameTitle": "Quizball",
+        "gameDescription": "Answer trivia questions for a chance to score a basket and get extra points!",
+        "imgSrc": "https://kaatissensei.github.io/images/screenshots/Quizball_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Quizball",
+        "badges": ["JHS"]
+    }
+]
