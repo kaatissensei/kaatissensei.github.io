@@ -53,6 +53,7 @@
         "gameDescription": "Answer trivia questions for a chance to score a basket and get extra points!",
         "imgSrc": "/screenshots/Quizball_screenshot.png",
         "gameURL": "https://kaatissensei.github.io/Quizball",
-        "badges": ["JHS"]
+        "badges": ["JHS"],
+        "downloadURL": "https://github.com/kaatissensei/Quizball/Quizball_Template.csv"
     }
 ]
