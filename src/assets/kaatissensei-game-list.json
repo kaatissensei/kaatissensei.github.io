@@ -54,6 +54,6 @@
         "imgSrc": "/screenshots/Quizball_screenshot.png",
         "gameURL": "https://kaatissensei.github.io/Quizball",
         "badges": ["JHS"],
-        "downloadURL": "https://raw.githubusercontent.com/kaatissensei/Quizball/Quizball_Template.csv"
+        "downloadURL": "https://raw.githubusercontent.com/kaatissensei/Quizball/main/Quizball_Template.csv"
     }
 ]
