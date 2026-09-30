@@ -39,9 +39,9 @@ export default function KSHeroSection() {
                 <section>
                     <div className="flex relative pt-24 md:pt-5 bg-primary">
                         <img
-                        src="/ks-logo.png"
+                        src="/src/assets/images/Kaatisu_banzai.png"
                         alt="KaatisSensei Logo"
-                        className="align-left h-28 mx-auto full object-cover mb-3"
+                        className="align-left h-28 mx-auto full object-cover mb-0"
                     />
                         <AnimatedGroup
                             variants={{

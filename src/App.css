@@ -182,3 +182,12 @@
     border-right-color: var(--border);
   }
 }
+
+.bg-halloween {
+  background-image: url('./assets/backgrounds/HalloweenBG.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100svh;
+  width: 100%;
+}
