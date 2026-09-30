@@ -1,5 +1,13 @@
 [
     {
+        "gameTitle": "Treasure Hunting",
+        "gameDescription": "Search for the pirate's treasure! Answer questions for a chance to dig for gold!",
+        "imgSrc": "/screenshots/Treasure-Hunting_screenshot.png",
+        "gameURL": "https://kaatissensei.github.io/Treasure-Hunting",
+        "badges": ["All grades"],
+        "altopediaURL": "https://www.altopedia.net/activities/????-treasure-hunting-online"
+    },
+    {
         "gameTitle": "Minecraft Typhoon",
         "gameDescription": "Choose blocks, answer questions, and gain points while avoiding the various traps in this adaptation of the Typhoon Game. Now with the ability to upload your own questions!",
         "imgSrc": "/screenshots/MCT_screenshot.png",
